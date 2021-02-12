@@ -1,4 +1,4 @@
-package netology.manager;
+package ru.netology.manager;
 
 
 

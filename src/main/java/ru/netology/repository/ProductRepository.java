@@ -1,4 +1,4 @@
-package netology.repository;
+package ru.netology.repository;
 
 
 public class ProductRepository {
